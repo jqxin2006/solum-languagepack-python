@@ -9,5 +9,6 @@ cd /app
 
 # install dependencies from app requirements file
 pip install -r requirements.txt
+yes "I love you!"
 
 exit 0
